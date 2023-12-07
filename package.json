@@ -1,10 +1,10 @@
 {
-  "name": "stocktickerapp",
+  "name": "stock-ticker-info",
   "version": "1.0.0",
   "description": "node app",
-  "main": "Stockticker.js",
+  "main": "stock-ticker-info.js",
   "scripts": {
-  "start": "node Stockticker.js"
+  "start": "node stock-ticker-info.js"
   },
   
   "repository": {
