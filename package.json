@@ -1,0 +1,22 @@
+{
+  "name": "stocktickerapp",
+  "version": "1.0.0",
+  "description": "node app",
+  "main": "Stockticker.js",
+  "scripts": {
+  "start": "node Stockticker.js"
+  },
+  
+  "repository": {
+  "type": "git",
+  "url": ""
+  },
+
+  "authur": ""
+  "license": "ISC",
+  "bugs": {
+  "url":
+},
+  "homepage": ""
+  
+}
